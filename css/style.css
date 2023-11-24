@@ -35,3 +35,12 @@ img {
 	object-fit: contain;
 	height: 100%;
 }
+
+.search {
+	margin-top: 5px;
+	font-size: 20px;
+	border-radius: 5px;
+	border: none;
+	min-width: 300px;
+	max-width: 40%;
+}
